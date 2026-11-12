@@ -1,0 +1,181 @@
+product_id,product_name,category,brand,unit_cost_ngn,list_price_ngn,launch_date,active_flag
+P0001,Books Product 001,Books & Stationery,Brand_03,922.47,1411.0,2024-11-28,True
+P0002,Grocery Product 002,Grocery & Household,Brand_16,2628.96,3433.1,2023-05-09,True
+P0003,Fashion Product 003,Fashion,Brand_13,5812.27,9970.07,2025-04-02,True
+P0004,Home Product 004,Home & Kitchen,Brand_26,6422.13,10411.17,2025-04-07,True
+P0005,Books Product 005,Books & Stationery,Brand_14,1160.39,1719.06,2025-06-12,True
+P0006,Home Product 006,Home & Kitchen,Brand_17,7705.48,11391.14,2023-06-04,True
+P0007,Books Product 007,Books & Stationery,Brand_28,1193.44,1999.23,2024-01-06,True
+P0008,Home Product 008,Home & Kitchen,Brand_10,4967.37,7983.64,2023-08-15,True
+P0009,Fashion Product 009,Fashion,Brand_14,4820.1,8762.99,2025-03-15,True
+P0010,Home Product 010,Home & Kitchen,Brand_25,9197.82,13726.83,2023-07-19,False
+P0011,Books Product 011,Books & Stationery,Brand_09,1961.44,3537.78,2025-02-19,True
+P0012,Beauty Product 012,Beauty & Personal Care,Brand_14,2192.36,3610.18,2024-10-30,True
+P0013,Beauty Product 013,Beauty & Personal Care,Brand_17,1912.06,3493.48,2024-07-07,True
+P0014,Home Product 014,Home & Kitchen,Brand_30,4484.92,7016.52,2023-08-03,True
+P0015,Toys Product 015,Toys & Games,Brand_26,1497.58,2680.84,2023-10-09,True
+P0016,Sports Product 016,Sports & Outdoors,Brand_30,4675.65,7115.22,2024-10-26,True
+P0017,Toys Product 017,Toys & Games,Brand_04,2027.79,3474.25,2023-04-01,True
+P0018,Fashion Product 018,Fashion,Brand_29,2915.01,5021.01,2023-06-02,True
+P0019,Fashion Product 019,Fashion,Brand_21,3453.94,6157.28,2024-09-22,True
+P0020,Electronics Product 020,Electronics,Brand_11,8154.19,12078.07,2025-06-27,True
+P0021,Home Product 021,Home & Kitchen,Brand_08,11184.58,17368.21,2024-12-17,True
+P0022,Home Product 022,Home & Kitchen,Brand_04,3249.99,5040.75,2024-03-31,True
+P0023,Home Product 023,Home & Kitchen,Brand_14,6134.64,9687.35,2025-05-06,True
+P0024,Sports Product 024,Sports & Outdoors,Brand_05,6658.71,10228.69,2024-08-07,True
+P0025,Electronics Product 025,Electronics,Brand_06,20138.42,27590.66,2024-05-08,True
+P0026,Electronics Product 026,Electronics,Brand_24,37262.44,55907.16,2023-06-20,True
+P0027,Beauty Product 027,Beauty & Personal Care,Brand_09,1119.96,1969.75,2023-01-23,True
+P0028,Fashion Product 028,Fashion,Brand_09,4770.77,7723.25,2024-05-01,True
+P0029,Grocery Product 029,Grocery & Household,Brand_25,1270.22,1856.89,2023-09-24,True
+P0030,Beauty Product 030,Beauty & Personal Care,Brand_11,1600.7,2999.46,2025-04-06,True
+P0031,Electronics Product 031,Electronics,Brand_20,9117.56,14143.66,2024-11-03,True
+P0032,Sports Product 032,Sports & Outdoors,Brand_10,15607.97,23797.63,2023-04-18,True
+P0033,Home Product 033,Home & Kitchen,Brand_17,3136.24,4999.07,2024-01-06,True
+P0034,Toys Product 034,Toys & Games,Brand_20,1953.33,3042.95,2023-10-18,True
+P0035,Home Product 035,Home & Kitchen,Brand_16,4032.47,5929.46,2023-02-14,True
+P0036,Grocery Product 036,Grocery & Household,Brand_26,2994.57,3518.64,2025-06-09,True
+P0037,Beauty Product 037,Beauty & Personal Care,Brand_11,4736.58,8613.97,2024-10-23,True
+P0038,Electronics Product 038,Electronics,Brand_01,42369.32,58180.0,2025-07-25,True
+P0039,Electronics Product 039,Electronics,Brand_23,45929.36,64514.63,2023-06-29,True
+P0040,Toys Product 040,Toys & Games,Brand_30,6062.43,10830.84,2025-02-16,True
+P0041,Beauty Product 041,Beauty & Personal Care,Brand_06,2131.33,3838.92,2023-08-18,True
+P0042,Sports Product 042,Sports & Outdoors,Brand_28,1887.91,2914.3,2024-11-25,True
+P0043,Home Product 043,Home & Kitchen,Brand_03,4959.77,7073.1,2025-01-08,True
+P0044,Electronics Product 044,Electronics,Brand_30,22835.74,32706.0,2023-10-28,True
+P0045,Sports Product 045,Sports & Outdoors,Brand_29,12076.44,18780.02,2025-07-13,False
+P0046,Beauty Product 046,Beauty & Personal Care,Brand_22,2273.46,4628.35,2023-05-21,True
+P0047,Grocery Product 047,Grocery & Household,Brand_23,6662.37,8983.73,2025-03-15,True
+P0048,Books Product 048,Books & Stationery,Brand_09,2005.19,2973.9,2025-04-09,True
+P0049,Home Product 049,Home & Kitchen,Brand_28,4758.3,7772.56,2025-05-17,True
+P0050,Fashion Product 050,Fashion,Brand_29,2310.49,4012.96,2025-05-17,True
+P0051,Home Product 051,Home & Kitchen,Brand_26,2556.77,4187.0,2025-03-27,True
+P0052,Electronics Product 052,Electronics,Brand_06,15013.61,20416.41,2025-04-04,True
+P0053,Electronics Product 053,Electronics,Brand_05,28352.57,38336.85,2023-10-12,True
+P0054,Electronics Product 054,Electronics,Brand_06,15527.1,21930.54,2023-06-24,True
+P0055,Beauty Product 055,Beauty & Personal Care,Brand_25,4009.88,7330.75,2023-11-14,True
+P0056,Toys Product 056,Toys & Games,Brand_15,2065.18,3362.15,2023-07-01,True
+P0057,Home Product 057,Home & Kitchen,Brand_09,13679.02,20194.52,2023-02-19,True
+P0058,Beauty Product 058,Beauty & Personal Care,Brand_04,1352.17,2277.91,2023-02-21,True
+P0059,Electronics Product 059,Electronics,Brand_08,30829.39,41636.08,2025-09-06,True
+P0060,Books Product 060,Books & Stationery,Brand_23,1561.55,2573.19,2023-05-15,True
+P0061,Beauty Product 061,Beauty & Personal Care,Brand_24,4005.08,9434.8,2024-01-21,True
+P0062,Home Product 062,Home & Kitchen,Brand_05,4024.57,6927.6,2024-02-21,True
+P0063,Fashion Product 063,Fashion,Brand_14,5908.32,10453.19,2024-01-15,True
+P0064,Home Product 064,Home & Kitchen,Brand_26,11923.76,17376.01,2024-04-25,True
+P0065,Beauty Product 065,Beauty & Personal Care,Brand_07,6134.89,10959.96,2025-03-15,True
+P0066,Sports Product 066,Sports & Outdoors,Brand_02,4259.38,6132.74,2023-07-22,True
+P0067,Toys Product 067,Toys & Games,Brand_20,3392.37,5197.39,2023-04-06,True
+P0068,Electronics Product 068,Electronics,Brand_29,7550.07,10530.27,2025-08-16,True
+P0069,Beauty Product 069,Beauty & Personal Care,Brand_28,3032.94,5963.92,2025-08-04,True
+P0070,Beauty Product 070,Beauty & Personal Care,Brand_04,1608.72,2903.62,2024-07-18,True
+P0071,Fashion Product 071,Fashion,Brand_28,4481.91,7684.49,2025-03-10,True
+P0072,Beauty Product 072,Beauty & Personal Care,Brand_24,1719.2,3034.29,2023-04-28,True
+P0073,Sports Product 073,Sports & Outdoors,Brand_07,8950.72,14337.03,2024-11-02,True
+P0074,Grocery Product 074,Grocery & Household,Brand_24,2883.73,3640.32,2023-12-31,True
+P0075,Electronics Product 075,Electronics,Brand_17,23614.3,30868.69,2024-03-13,True
+P0076,Books Product 076,Books & Stationery,Brand_11,968.26,1660.83,2025-02-19,True
+P0077,Fashion Product 077,Fashion,Brand_26,8350.84,13500.55,2025-08-09,True
+P0078,Toys Product 078,Toys & Games,Brand_15,2277.19,4466.47,2024-08-11,True
+P0079,Electronics Product 079,Electronics,Brand_13,33285.01,51373.82,2023-10-23,True
+P0080,Fashion Product 080,Fashion,Brand_23,4996.51,8278.01,2025-02-20,True
+P0081,Grocery Product 081,Grocery & Household,Brand_24,2501.75,3297.11,2025-04-16,True
+P0082,Grocery Product 082,Grocery & Household,Brand_19,1747.75,2222.97,2023-04-01,True
+P0083,Electronics Product 083,Electronics,Brand_26,12079.53,16967.6,2025-02-15,True
+P0084,Grocery Product 084,Grocery & Household,Brand_01,3273.55,4262.23,2023-01-06,True
+P0085,Beauty Product 085,Beauty & Personal Care,Brand_09,974.34,2058.6,2025-04-29,True
+P0086,Toys Product 086,Toys & Games,Brand_26,2602.97,4274.86,2024-11-29,True
+P0087,Electronics Product 087,Electronics,Brand_17,12786.4,16373.69,2024-09-22,True
+P0088,Electronics Product 088,Electronics,Brand_01,7530.55,11073.79,2023-09-28,True
+P0089,Grocery Product 089,Grocery & Household,Brand_03,1193.51,1496.23,2024-09-08,True
+P0090,Toys Product 090,Toys & Games,Brand_12,1172.24,1826.57,2023-04-02,True
+P0091,Grocery Product 091,Grocery & Household,Brand_08,1784.65,2232.89,2024-09-28,True
+P0092,Electronics Product 092,Electronics,Brand_13,36418.57,51688.73,2024-08-01,True
+P0093,Sports Product 093,Sports & Outdoors,Brand_14,11085.78,16614.08,2024-05-23,True
+P0094,Fashion Product 094,Fashion,Brand_29,11879.13,20371.59,2023-10-06,True
+P0095,Fashion Product 095,Fashion,Brand_30,4518.84,7806.77,2024-02-16,True
+P0096,Home Product 096,Home & Kitchen,Brand_28,1657.26,2718.08,2023-02-06,True
+P0097,Fashion Product 097,Fashion,Brand_11,6409.58,11942.44,2024-07-19,True
+P0098,Sports Product 098,Sports & Outdoors,Brand_08,6755.41,9965.74,2025-02-26,True
+P0099,Fashion Product 099,Fashion,Brand_29,4545.64,6522.7,2024-05-27,True
+P0100,Toys Product 100,Toys & Games,Brand_23,4111.43,6881.7,2024-06-04,True
+P0101,Home Product 101,Home & Kitchen,Brand_27,3671.45,5321.32,2025-04-21,True
+P0102,Home Product 102,Home & Kitchen,Brand_22,7049.53,10910.74,2023-11-10,True
+P0103,Electronics Product 103,Electronics,Brand_13,5459.33,8363.94,2024-01-08,True
+P0104,Beauty Product 104,Beauty & Personal Care,Brand_16,747.35,1838.05,2025-08-16,True
+P0105,Books Product 105,Books & Stationery,Brand_05,1177.85,1837.72,2024-12-06,True
+P0106,Sports Product 106,Sports & Outdoors,Brand_23,5884.89,8583.74,2024-06-09,True
+P0107,Home Product 107,Home & Kitchen,Brand_29,10213.06,13927.49,2024-07-09,True
+P0108,Grocery Product 108,Grocery & Household,Brand_26,2428.63,2880.35,2024-01-28,True
+P0109,Books Product 109,Books & Stationery,Brand_28,1989.43,2881.52,2023-05-31,True
+P0110,Grocery Product 110,Grocery & Household,Brand_06,2911.88,4103.89,2023-10-20,True
+P0111,Beauty Product 111,Beauty & Personal Care,Brand_09,567.94,1125.52,2023-09-01,True
+P0112,Sports Product 112,Sports & Outdoors,Brand_24,5207.86,8155.15,2025-02-01,True
+P0113,Fashion Product 113,Fashion,Brand_28,5847.29,9588.55,2025-04-24,True
+P0114,Books Product 114,Books & Stationery,Brand_13,4717.15,7656.7,2025-06-28,True
+P0115,Toys Product 115,Toys & Games,Brand_01,1412.23,2521.81,2024-02-03,True
+P0116,Sports Product 116,Sports & Outdoors,Brand_10,4079.0,5907.25,2023-07-11,False
+P0117,Grocery Product 117,Grocery & Household,Brand_05,3411.36,4326.62,2024-08-21,False
+P0118,Home Product 118,Home & Kitchen,Brand_22,3464.54,5182.22,2025-09-08,True
+P0119,Fashion Product 119,Fashion,Brand_16,3373.66,5657.14,2024-12-21,True
+P0120,Books Product 120,Books & Stationery,Brand_16,904.05,1386.27,2025-01-02,True
+P0121,Beauty Product 121,Beauty & Personal Care,Brand_04,2928.16,4780.67,2025-09-11,True
+P0122,Books Product 122,Books & Stationery,Brand_16,566.77,1007.85,2025-02-16,True
+P0123,Grocery Product 123,Grocery & Household,Brand_08,2558.88,3654.88,2024-02-16,True
+P0124,Electronics Product 124,Electronics,Brand_08,12238.63,17702.44,2025-07-13,True
+P0125,Electronics Product 125,Electronics,Brand_12,7362.26,9892.7,2023-04-20,True
+P0126,Sports Product 126,Sports & Outdoors,Brand_23,7060.09,11504.08,2025-01-09,True
+P0127,Electronics Product 127,Electronics,Brand_08,14006.24,17835.46,2025-05-08,False
+P0128,Beauty Product 128,Beauty & Personal Care,Brand_23,1676.31,2987.0,2024-02-06,True
+P0129,Sports Product 129,Sports & Outdoors,Brand_16,2749.31,5077.92,2023-12-15,True
+P0130,Home Product 130,Home & Kitchen,Brand_04,1892.49,2929.42,2023-10-02,True
+P0131,Home Product 131,Home & Kitchen,Brand_14,7992.04,11691.06,2024-12-18,True
+P0132,Grocery Product 132,Grocery & Household,Brand_17,2690.2,3517.42,2023-05-17,True
+P0133,Grocery Product 133,Grocery & Household,Brand_02,1116.91,1590.77,2024-01-28,True
+P0134,Beauty Product 134,Beauty & Personal Care,Brand_03,2347.25,3816.33,2023-03-09,True
+P0135,Electronics Product 135,Electronics,Brand_27,11284.41,15500.93,2023-12-10,True
+P0136,Grocery Product 136,Grocery & Household,Brand_30,2343.31,3169.24,2023-10-12,True
+P0137,Home Product 137,Home & Kitchen,Brand_10,2382.8,3495.42,2024-06-13,True
+P0138,Beauty Product 138,Beauty & Personal Care,Brand_26,2477.8,4878.74,2023-08-30,True
+P0139,Electronics Product 139,Electronics,Brand_08,68492.61,92694.31,2025-03-02,True
+P0140,Fashion Product 140,Fashion,Brand_18,5833.15,9166.9,2024-11-05,True
+P0141,Grocery Product 141,Grocery & Household,Brand_06,1910.16,2518.53,2024-07-16,True
+P0142,Sports Product 142,Sports & Outdoors,Brand_29,4731.9,7124.92,2024-03-08,False
+P0143,Grocery Product 143,Grocery & Household,Brand_02,1512.57,2030.87,2023-09-04,True
+P0144,Fashion Product 144,Fashion,Brand_02,3666.7,5819.39,2023-02-20,True
+P0145,Fashion Product 145,Fashion,Brand_14,6205.15,11575.0,2023-07-27,True
+P0146,Fashion Product 146,Fashion,Brand_09,5377.01,9280.53,2023-04-23,True
+P0147,Electronics Product 147,Electronics,Brand_01,14812.28,22264.56,2023-11-30,True
+P0148,Books Product 148,Books & Stationery,Brand_07,877.21,1424.81,2023-11-19,True
+P0149,Fashion Product 149,Fashion,Brand_23,2526.61,3912.65,2023-11-27,True
+P0150,Electronics Product 150,Electronics,Brand_06,9996.46,13505.96,2023-05-31,True
+P0151,Electronics Product 151,Electronics,Brand_28,21182.7,29132.51,2023-07-08,False
+P0152,Electronics Product 152,Electronics,Brand_03,5557.24,7263.62,2024-07-23,True
+P0153,Toys Product 153,Toys & Games,Brand_16,3389.1,5279.9,2024-09-11,True
+P0154,Books Product 154,Books & Stationery,Brand_08,949.2,1529.7,2025-07-07,True
+P0155,Beauty Product 155,Beauty & Personal Care,Brand_23,6627.28,11211.36,2025-03-24,True
+P0156,Books Product 156,Books & Stationery,Brand_16,2156.48,3188.95,2024-02-19,True
+P0157,Electronics Product 157,Electronics,Brand_12,19290.52,30153.8,2023-01-20,True
+P0158,Books Product 158,Books & Stationery,Brand_25,4399.43,6304.67,2023-11-14,True
+P0159,Beauty Product 159,Beauty & Personal Care,Brand_21,2321.67,4227.94,2024-11-24,True
+P0160,Beauty Product 160,Beauty & Personal Care,Brand_28,1103.14,2051.61,2023-01-17,True
+P0161,Beauty Product 161,Beauty & Personal Care,Brand_03,2329.64,4226.52,2025-05-30,True
+P0162,Sports Product 162,Sports & Outdoors,Brand_14,5105.55,8282.51,2024-08-17,True
+P0163,Sports Product 163,Sports & Outdoors,Brand_02,2171.08,3368.73,2024-08-18,True
+P0164,Toys Product 164,Toys & Games,Brand_06,2870.65,5108.16,2024-07-07,True
+P0165,Sports Product 165,Sports & Outdoors,Brand_09,12779.8,18269.93,2025-01-28,True
+P0166,Fashion Product 166,Fashion,Brand_02,4181.83,7324.9,2025-03-07,True
+P0167,Fashion Product 167,Fashion,Brand_20,2733.32,4601.42,2024-01-31,True
+P0168,Electronics Product 168,Electronics,Brand_21,9329.18,13358.99,2023-07-19,True
+P0169,Grocery Product 169,Grocery & Household,Brand_27,1156.39,1688.78,2025-01-03,True
+P0170,Fashion Product 170,Fashion,Brand_20,3866.76,6092.85,2025-01-01,True
+P0171,Beauty Product 171,Beauty & Personal Care,Brand_21,1181.11,2258.74,2025-05-15,True
+P0172,Electronics Product 172,Electronics,Brand_14,44000.31,54816.58,2023-01-24,True
+P0173,Fashion Product 173,Fashion,Brand_19,9819.2,17053.1,2024-01-30,True
+P0174,Beauty Product 174,Beauty & Personal Care,Brand_01,3408.79,6707.94,2024-08-24,True
+P0175,Fashion Product 175,Fashion,Brand_11,6228.99,10713.8,2024-01-30,True
+P0176,Home Product 176,Home & Kitchen,Brand_01,6151.17,10738.09,2025-08-12,True
+P0177,Electronics Product 177,Electronics,Brand_11,17522.41,24209.61,2023-10-06,True
+P0178,Home Product 178,Home & Kitchen,Brand_14,4306.12,6795.41,2023-09-17,True
+P0179,Fashion Product 179,Fashion,Brand_21,5642.38,9680.93,2024-05-10,True
+P0180,Home Product 180,Home & Kitchen,Brand_10,4932.98,7527.28,2025-05-26,True
