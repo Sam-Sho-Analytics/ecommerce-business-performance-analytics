@@ -25,7 +25,7 @@ The project features four interactive Power BI dashboard pages.
 
 ### 01. Executive Business Performance
 
-![Executive Business Dashboard](Dashboard_screenshot/Classsic-Gold Ecommerce executive sales dashboard1.png).
+![Executive Business Dashboard](Dashboard_screenshot/Classsic-Gold Ecommerce executive sales dashboard1.png)
 
 Provides an overview of overall business performance, highlighting revenue, profitability, order volume, customer contribution and key performance trends.
 
