@@ -31,19 +31,19 @@ Provides an overview of overall business performance, highlighting revenue, prof
 
 ### 02. Sales Performance
 
-![Sales Performance Dashboard](Dashboard/Screenshots/Sales_Performance.png)
+![Sales Performance Dashboard](Dashboard_screenshot/Classic_Gold_Ecommerce_Sales_Dashboard.png)
 
 Examines revenue growth, product and category performance, customer purchasing behaviour, sales channels and regional performance.
 
 ### 03. Marketing Performance
 
-![Marketing Performance Dashboard](Dashboard/Screenshots/Marketing_Performance.png)
+![Marketing Performance Dashboard](Dashboard_screenshot/Classic_Gold_Ecommerce_Marketing&Customer_Retention_Dashboard.png)
 
 Evaluates marketing expenditure, customer acquisition, advertising effectiveness, conversion performance and return on advertising spend.
 
 ### 04. Inventory Performance
 
-![Inventory Performance Dashboard](Dashboard/Screenshots/Inventory_Performance.png)
+![Inventory Performance Dashboard](Dashboard_screenshot/Classic_Gold_Ecommerce_Inventory&return_Analytics_dashboard.png)
 
 Monitors inventory movement, stock replenishment, product returns and inventory-related operational performance.
 
